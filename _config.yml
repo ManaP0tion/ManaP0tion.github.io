@@ -6,10 +6,13 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ko
+lang: ko-KR
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Seoul
+
+# 미래 날짜 글은 빌드에서 제외 (예약 발행용). true면 예약 무시하고 바로 게시됨
+future: false
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
