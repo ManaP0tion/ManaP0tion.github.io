@@ -1,5 +1,5 @@
 ---
-title: bfs 알고리즘
+title: BFS 알고리즘
 date: 2026-09-24 12:00:00 +0900
 cstegories: [Algorithm]
 tags: [알고리즘, BFS, 파이썬]
