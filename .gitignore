@@ -15,12 +15,14 @@ _site
 node_modules
 package-lock.json
 
-# IDE configurations
+# IDE / AI configurations
 .idea
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
+.claude
+
 
 # Misc
 _sass/vendors
@@ -30,3 +32,6 @@ assets/js/dist
 *~
 .DS_Store
 Thumbs.db
+
+# Obsidian
+.obsidian
