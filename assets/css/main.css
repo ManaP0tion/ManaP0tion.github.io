@@ -1,0 +1,7 @@
+/* Crisp 테마 마크다운 형광펜 커스텀 */
+mark {
+  background-color: #fff89a; /* 원하는 형광펜 색상 코드 */
+  color: inherit;            /* 글자 색상은 기존 본문 색상 유지 */
+  padding: 0.1em 0.2em;      /* 위아래, 좌우 살짝 여백 주어 자연스럽게 */
+  border-radius: 3px;        /* 테두리 부드럽게 */
+}
